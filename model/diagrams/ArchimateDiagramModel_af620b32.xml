@@ -1277,9 +1277,9 @@
         textAlignment="1"
         content="Este módulo esta para solo consulta">
       <bounds
-          x="322"
+          x="300"
           y="660"
-          width="111"
+          width="133"
           height="49"/>
     </children>
     <children

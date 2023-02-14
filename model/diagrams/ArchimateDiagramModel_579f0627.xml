@@ -361,7 +361,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="d8809b8b"
       name="Aplicaciones Core / Backend"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#b3d7ff">
     <bounds
         x="44"
         y="542"
