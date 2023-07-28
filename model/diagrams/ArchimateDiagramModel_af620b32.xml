@@ -1983,9 +1983,9 @@
             href="ServingRelationship_eaf6c298.xml#eaf6c298"/>
       </sourceConnections>
       <bounds
-          x="648"
+          x="612"
           y="60"
-          width="120"
+          width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
