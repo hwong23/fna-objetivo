@@ -800,7 +800,7 @@
       <bounds
           x="96"
           y="48"
-          width="120"
+          width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
